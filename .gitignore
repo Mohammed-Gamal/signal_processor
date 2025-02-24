@@ -1,1 +1,5 @@
+.gitignore
 notes.txt
+__pycache__
+signal_processor.egg-info
+./signal_processor/__pycache__
